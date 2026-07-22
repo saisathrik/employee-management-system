@@ -1,5 +1,5 @@
 # Employee Management System
-
+live server running on : https://employee-management-system-1c3l.vercel.app/
 Full-stack employee task management app with a React frontend and Node.js/Express/MongoDB backend.
 
 ## Project Structure
@@ -126,5 +126,5 @@ JWT_SECRET=your_super_secret_jwt_key_change_in_production
 # First admin account — created automatically on server start if no admin exists yet.
 ADMIN_NAME=Admin
 ADMIN_EMAIL=admin@me.com
-ADMIN_PASSWORD=changeme123
+ADMIN_PASSWORD=admin123
 ```
